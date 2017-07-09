@@ -62,9 +62,9 @@
 		6839A0311F1236F10017C893 /* AlgorithmSummary */ = {
 			isa = PBXGroup;
 			children = (
+				6839A0341F1236F10017C893 /* Array(二维数组查找) */,
 				6839A0321F1236F10017C893 /* AppDelegate.h */,
 				6839A0331F1236F10017C893 /* AppDelegate.m */,
-				6839A0341F1236F10017C893 /* Array */,
 				6839A0371F1236F10017C893 /* Assets.xcassets */,
 				6839A0381F1236F10017C893 /* LaunchScreen.storyboard */,
 				6839A03A1F1236F10017C893 /* Main.storyboard */,
@@ -76,12 +76,13 @@
 			path = AlgorithmSummary;
 			sourceTree = "<group>";
 		};
-		6839A0341F1236F10017C893 /* Array */ = {
+		6839A0341F1236F10017C893 /* Array(二维数组查找) */ = {
 			isa = PBXGroup;
 			children = (
 				6839A0351F1236F10017C893 /* NSArray+Find.h */,
 				6839A0361F1236F10017C893 /* NSArray+Find.m */,
 			);
+			name = "Array(二维数组查找)";
 			path = Array;
 			sourceTree = "<group>";
 		};
